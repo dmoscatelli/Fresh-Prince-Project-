@@ -1,0 +1,48 @@
+html {
+	background: #87b0dc;
+	font-family: Arial;
+}
+
+/* #container {
+	width: 700px;
+	margin: 0 auto;
+} */
+
+
+h1 {
+	color: red;
+	text-align: center;
+
+}
+
+h3 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	width: 700px;
+	margin: 0 auto;
+	color: white;
+}
+
+
+
+ul {
+	width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+li {
+	list-style-type: none;
+	color: white;
+}
+
+#acontainer {
+	margin: 0 auto;
+	text-align: center;
+}
+
